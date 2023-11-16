@@ -420,7 +420,7 @@ footer {
         z-index: 9999;
         top: 0;
         left: 0;
-        background-color: beige;
+        background-color: rgb(89, 160, 160);
         margin: 0;
         transition: ease .5s;
     }
