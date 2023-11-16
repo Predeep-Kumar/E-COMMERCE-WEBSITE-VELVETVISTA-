@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+
+    <product>
+        <name>TROUSER (BLACK)</name>
+        <price>19.99</price>
+        <image>images/TROUSER.JPG</image>
+    </product>
+     <product>
+        <name>TROUSER (BROWN)</name>
+        <price>19.99</price>
+        <image>images/TROUSER_1.JPG</image>
+    </product>
+     <product>
+        <name>TROUSER (RED)</name>
+        <price>19.99</price>
+        <image>images/TROUSER_2.JPG</image>
+    </product>
+     
+     <product>
+        <name>JEANS (BLUE)</name>
+        <price>25.99</price>
+        <image>images/TROUSER_4.JPG</image>
+    </product>
+    
+     <product>
+        <name>JEANS (SKY BLUE)</name>
+        <price>25.99</price>
+        <image>images/TROUSER_5.JPG</image>
+    </product>
+    
+     <product>
+        <name>JEANS (BLACK)</name>
+        <price>25.99</price>
+        <image>images/TROUSER_6.JPG</image>
+    </product>
+
+     <product>
+        <name>MENS HOODIE (BLUE)</name>
+        <price>20.99</price>
+        <image>images/HOODIE_1.JPG</image>
+    </product> <product>
+        <name>MENS HOODIE (SKY BLUE)</name>
+        <price>20.99</price>
+        <image>images/HOODIE_2.JPG</image>
+    </product> <product>
+        <name>MENS HOODIE (CREAM)</name>
+        <price>20.99</price>
+        <image>images/HOODIE_3.JPG</image>
+    </product> <product>
+        <name>MENS HOODIE (WHITE)</name>
+        <price>20.99</price>
+        <image>images/HOODIE_4.JPG</image>
+    </product> <product>
+        <name>MENS HOODIE (DARK BLUE)</name>
+        <price>20.99</price>
+        <image>images/HOODIE_5.JPG</image>
+    </product> <product>
+        <name>MENS HOODIE (RED)</name>
+        <price>20.99</price>
+        <image>images/HOODIE_6.JPG</image>
+    </product>
+    
+
+    
+
+
+
+    <product>
+        <name>JACKET (BLACK)</name>
+        <price>39.99</price>
+        <image>images/JACKET_1.JPG</image>
+    </product>
+    <product>
+        <name>JACKET (RED)</name>
+        <price>39.99</price>
+        <image>images/JACKET_2.JPG</image>
+    </product>
+    <product>
+        <name>JACKET (DEMIN)</name>
+        <price>39.99</price>
+        <image>images/JACKET_3.JPG</image>
+    </product>
+      <product>
+        <name>JACKET (BROWN)</name>
+        <price>39.99</price>
+        <image>images/JACKET_4.jpg</image>
+    </product>
+
+
+
+   
+</products>
